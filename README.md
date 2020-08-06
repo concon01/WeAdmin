@@ -1,12 +1,8 @@
-
-# WeAdmin121
-# WeAdmin212
-# WeAdmin11
-# WeAdmin22
+# WeAdmin
 
 基于Layui的后台管理系统前端模板 http://lovetime.gitee.io/weadmin/
 
-## 更新记录1
+## 更新记录
 
 2019-06-20 
 WeAdmin左侧菜单修改为动态获取方式
